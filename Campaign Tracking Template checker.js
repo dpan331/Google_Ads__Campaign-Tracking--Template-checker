@@ -26,7 +26,7 @@ function campaignTrackingTemplateChecker() {
   }
   
   if (i > 0) {
-    MailApp.sendEmail('dimitrios.panourgias@virail.com',
+    MailApp.sendEmail('your.email@here.com',
         'Campaign tracking template checker',
         'At least one campaign in your MCC has a wrong tracking template');
   }
