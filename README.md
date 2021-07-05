@@ -5,4 +5,4 @@ There is also an additional script that can be set up on MCC level and iterate a
 
 The third script in the repository, MCC Campaign Tracking Template applier, on the other hand helps you apply a tracking template to all campaigns of the iterated ad accounts of the MCC.
 
-🚸 This script is not maintained, so, in time, certain operations or even the entire script may not be functional.
+🚸 These scripts are not maintained, so, in time, certain operations or even the entire scripts may not be functional.
